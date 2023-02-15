@@ -1,2 +1,2 @@
 # yqandn
-&lt;3
+for love &lt;3
