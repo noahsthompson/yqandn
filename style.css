@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&family=Tinos');
+
+
+:root {
+    color-scheme: dark light;
+    --light: #fff;
+    --accent: #64d59c;
+    --dark: #08816d;
+}
+
+body {
+    font-family: 'Tinos';
+    font-size: 20px;
+    width: 600px;
+}
+
+h1 {
+/*    background-color: var(--dark);
+    margin: 0;
+    max-width: 1100px;
+    padding: 0 20px 20px 20px;
+    line-height: 1.4em;*/
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+}
